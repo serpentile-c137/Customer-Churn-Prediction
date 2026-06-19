@@ -12,7 +12,7 @@ __pycache__/
 *.pyo
 
 # Big artifacts we don't want in git
-# mlruns/
+mlruns/
 artifacts/
 data/raw/
 data/processed/
